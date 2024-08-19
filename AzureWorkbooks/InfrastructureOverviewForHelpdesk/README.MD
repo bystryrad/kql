@@ -6,14 +6,14 @@ This Azure Workbook is specifically designed to provide an infrastructure overvi
 
 Filtering parameters
 
-![image](./images/params.png)
+![image](../images/params.png)
 
 App Service Plan overview & picker
 
-![image](./images/appplanlist.png)
+![image](../images/appplanlist.png)
 
-![image](./images//appplanmetrics.png)
+![image](../images//appplanmetrics.png)
 
-![image](./images/webappmetrics.png)
+![image](../images/webappmetrics.png)
 
-![image](./images/databases.png)
+![image](../images/databases.png)
