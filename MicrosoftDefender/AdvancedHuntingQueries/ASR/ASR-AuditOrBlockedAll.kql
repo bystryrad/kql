@@ -1,0 +1,4 @@
+DeviceEvents
+| where ActionType startswith "Asr"
+| where ActionType endswith "Audited" // Change to 'blocked' when searching for Blocked ASR Rules
+| sort by Timestamp
