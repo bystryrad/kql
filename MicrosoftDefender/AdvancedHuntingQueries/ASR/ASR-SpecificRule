@@ -1,0 +1,4 @@
+DeviceEvents
+| where ActionType == "AsrLsassCredentialTheftAudited" // the ActionTypes are listed below
+
+// https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference
